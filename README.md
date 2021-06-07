@@ -1,4 +1,8 @@
 ### Hi there 👋
+-😄 Pronouns: ...refer me as Swan 
+-🌱 I'm a full stack enthusiastic...working on several personal project 
+
+
 
 <!--
 **swankhede/swankhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,9 @@
 ### Hi there 👋
-#### 😄 Pronouns: ...refer me as Swan 
-#### 🌱 I'm a full stack enthusiastic...working on several personal project 
+- 😄 I'm swankhede Web enthusiastic
+- 🔭 I’m currently working on several personal projects
+- 🌱 I’m currently learning Reactjs
+
+
 
 
 

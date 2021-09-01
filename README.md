@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 😄 I'm swankhede Web enthusiastic
-- 🔭 I’m currently working on several personal projects
+- 😄 I'm swankhede Web enthusiasti
 - 🌱 I’m currently learning Reactjs
 
 

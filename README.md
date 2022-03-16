@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 I'm swankhede Web enthusiast
+- 😄 I'm swankhede Web & App development enthusiast
 
 
 
